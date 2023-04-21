@@ -4,19 +4,20 @@
 widget: pages
 
 # This file represents a page section.
+active: true
 headless: true
 
 # Order that this section appears on the page.
-weight: 60
+weight: 40
 
-title: Recent Posts
-subtitle:
+title: Research
+subtitle: ''
 
 content:
   # Filter on criteria
   filters:
     folders:
-      - post
+      - research
     tag: ''
     category: ''
     publication_type: ''
@@ -25,14 +26,28 @@ content:
     exclude_future: false
     exclude_past: false
   # Choose how many pages you would like to display (0 = all pages)
-  count: 5
+  count: 0
   # Choose how many pages you would like to offset by
   offset: 0
   # Page order: descending (desc) or ascending (asc) date.
   order: desc
-
 design:
   # Choose a view for the listings:
-  view: compact
+  view: citation
   columns: '2'
+  
+# {{% callout note %}}
+#Quickly discover relevant content by [filtering publications](./publication/).
+#{{% /callout %}}
 ---
+
+### **Working Papers**
+
+* Gratuities in a Digital Services Marketplace
+(with On Amir, Kenneth C. Wilbur)
+
+### **Publications**
+
+* Designing Distributed Ledger Technologies, Like Blockchain, for Advertising Markets
+(with Mingyu Joo,  Anindya Ghose, Kenneth C. Wilbur) [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4194180)]
+<br> </br>
