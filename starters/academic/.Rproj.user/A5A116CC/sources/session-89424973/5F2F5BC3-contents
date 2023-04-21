@@ -1,0 +1,14 @@
+
+git rm content/home/Research.md
+git rm content/home/about.md
+git rm content/home/contact.md
+git rm content/post/getting-started/index.md
+git rm content/publication/conference-paper/cite.bib
+git rm content/publication/conference-paper/conference-paper.pdf
+git rm content/publication/conference-paper/featured.jpg
+git rm content/publication/conference-paper/index.md
+git rm content/slides/example/index.md
+git add  static/uploads/resume.pdf
+
+git rm .Rproj.user/A5A116CC/sources/session-89424973/8A769911-contents
+git rm .Rproj.user/A5A116CC/sources/session-89424973/B09B655E

@@ -80,8 +80,13 @@ features:
       show_count: true
     commento:
       url: ''
+    giscus:
+      repo: ''
+      repo_id: ''
+      category: ''
+      category_id: ''
   search:
-    provider: wowchemy
+    provider: ''
     algolia:
       app_id: ''
       api_key: ''

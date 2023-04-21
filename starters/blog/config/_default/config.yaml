@@ -74,6 +74,8 @@ taxonomies:
   author: authors
 markup:
   _merge: deep
+  highlight:
+    lineNos: false
 related:
   threshold: 80
   includeNewer: true
@@ -86,4 +88,6 @@ related:
 security:
   _merge: deep
 sitemap:
+  _merge: deep
+minify:
   _merge: deep

@@ -17,9 +17,9 @@
   sri = "sha512-Zq2BOxyhvnRFXu0+WE6ojpZLOU2jdnqbrM1hmVdGzyeCa1DgM3X5Q4A/Is9xA1IkbUeDd7755dNNI/PzSf2Pew=="
   url = "https://cdn.jsdelivr.net/gh/metafizzy/isotope@v%s/dist/isotope.pkgd.min.js"
 [js.imagesLoaded]
-  version = "4.1.4"
-  sri = "sha512-S5PZ9GxJZO16tT9r3WJp/Safn31eu8uWrzglMahDT4dsmgqWonRY9grk3j+3tfuPr9WJNsfooOR7Gi7HL5W2jw=="
-  url = "https://cdn.jsdelivr.net/gh/desandro/imagesloaded@v%s/imagesloaded.pkgd.min.js"
+  version = "5.0.0"
+  sri = "sha256-htrLFfZJ6v5udOG+3kNLINIKh2gvoKqwEhHYfTTMICc="
+  url = "https://cdn.jsdelivr.net/npm/imagesloaded@%s/imagesloaded.pkgd.min.js"
 [js.gmaps]
   version = "0.4.25"
   sri = "sha512-gauu0VKZq9ry8hOZHgNpcB2ogbSDojs+XLDItpOLY0IyA+KigeuT/suwSdPgfU/TGYLAn4Nan4OeaCa/UPr70Q=="
@@ -44,13 +44,13 @@
   version = "4"  # no SRI as we use latest major version
   url = "https://cdn.jsdelivr.net/npm/instantsearch.js@%s/dist/instantsearch.production.min.js"
 [js.anchor]
-  version = "4.2.2"
-  sri = "sha512-I7w3ZdSFzw5j3jU3ZkNikBNeIrl3i+hEuEdwNmqUJvwNcaBUNcijnP2gd9DtGlgVYDplfjGoD8vTNsID+lCjqg=="
-  url = "https://cdn.jsdelivr.net/gh/bryanbraun/anchorjs@%s/anchor.min.js"
+  version = "5.0.0"
+  sri = "sha256-aQmOEF2ZD4NM/xt4hthzREIo/2PFkOX/g01WjxEV7Ys="
+  url = "https://cdn.jsdelivr.net/npm/anchor-js@%s/anchor.min.js"
 [js.mermaid]
-  version = "8.8.4"
-  sri = "sha512-+TNmhaRJf3jyYHTpzEq/5I6b+aGyhzWb21mGdHAjxSGSYwxN9Grug3Y3B9qVxWfKKY8MscE/6mr9walWvFLFvQ=="
-  url = "https://cdn.jsdelivr.net/gh/mermaid-js/mermaid@v%s/dist/mermaid.min.js"
+  version = "9.1.3"
+  sri = "sha256-TIYL00Rhw/8WaoUhYTLX9SKIEFdXxg+yMWSLVUbhiLg="
+  url = "https://cdn.jsdelivr.net/npm/mermaid@%s/dist/mermaid.min.js"
 [js.cookieconsent]
   version = "3.1.1"
   sri = "sha512-yXXqOFjdjHNH1GND+1EO0jbvvebABpzGKD66djnUfiKlYME5HGMUJHoCaeE4D5PTG2YsSJf6dwqyUUvQvS0vaA=="
@@ -63,8 +63,8 @@
 # CSS
 
 [css.academicons]
-  version = "1.9.1"
-  sri = "sha512-W0xM4mr6dEP9nREo7Z9z+9X70wytKvMGeDsj7ps2+xg5QPrEBXC8tAW1IFnzjR6eoJ90JmCnFzerQJTLzIEHjA=="
+  version = "1.9.2"
+  sri = "sha512-KlJCpRsLf+KKu2VQa5vmRuClRFjxc5lXO03ixZt82HZUk41+1I0bD8KBSA0fY290ayMfWYI9udIqeOWSu1/uZg=="
   url = "https://cdn.jsdelivr.net/npm/academicons@%s/css/academicons.min.css"
 [css.leaflet]
   version = "1.7.1"
